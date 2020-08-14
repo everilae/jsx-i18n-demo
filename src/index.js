@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+global.gettext = msg => `${msg} (i18n)`;
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
