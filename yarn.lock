@@ -2182,8 +2182,9 @@ babel-plugin-syntax-object-rest-spread@^6.8.0:
   resolved "https://registry.yarnpkg.com/babel-plugin-syntax-object-rest-spread/-/babel-plugin-syntax-object-rest-spread-6.13.0.tgz#fd6536f2bce13836ffa3a5458c4903a597bb3bf5"
   integrity sha1-/WU28rzhODb/o6VFjEkDpZe7O/U=
 
-"babel-plugin-transform-jsx-i18n@file:../babel-plugin-transform-jsx-i18n":
+"babel-plugin-transform-jsx-i18n@https://github.com/everilae/babel-plugin-transform-jsx-i18n.git#master":
   version "1.0.0"
+  resolved "https://github.com/everilae/babel-plugin-transform-jsx-i18n.git#c69fa2d5d80a216dd8d5db4d9dcdbe7b7c95881d"
 
 babel-plugin-transform-object-rest-spread@^6.26.0:
   version "6.26.0"
@@ -6137,8 +6138,9 @@ jsx-ast-utils@^2.2.1, jsx-ast-utils@^2.2.3:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
 
-"jsx-i18n-message@file:../jsx-i18n-message":
+"jsx-i18n-message@https://github.com/everilae/jsx-i18n-message.git#master":
   version "0.0.1"
+  resolved "https://github.com/everilae/jsx-i18n-message.git#2894020bfdb48fe22fc4197241bf770e42df9e4c"
   dependencies:
     prop-types "^15.6.0"
 
