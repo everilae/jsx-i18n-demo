@@ -34,7 +34,7 @@
     "jest-environment-jsdom-fourteen": "1.0.1",
     "jest-resolve": "24.9.0",
     "jest-watch-typeahead": "0.4.2",
-    "jsx-i18n-message": "https://github.com/everilae/jsx-i18n-message.git#master",
+    "jsx-i18n-message": "git+https://github.com/everilae/jsx-i18n-message.git#master",
     "mini-css-extract-plugin": "0.9.0",
     "optimize-css-assets-webpack-plugin": "5.0.3",
     "pnp-webpack-plugin": "1.6.4",
@@ -144,6 +144,6 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-transform-jsx-i18n": "https://github.com/everilae/babel-plugin-transform-jsx-i18n.git#master"
+    "babel-plugin-transform-jsx-i18n": "git+https://github.com/everilae/babel-plugin-transform-jsx-i18n.git#master"
   }
 }
